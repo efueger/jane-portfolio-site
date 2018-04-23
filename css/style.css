@@ -18,11 +18,11 @@ body {
 	max-height: 100px;
 }
 
-.top-item.logo{
+.logo{
 	width: 20%;
 }
 
-.top-item.name-title{
+.name-title{
 	width: 80%;
 	max-height: 100px;
 	display: flex;
