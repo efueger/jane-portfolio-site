@@ -75,7 +75,7 @@ p.main_pic {
 }
 
 
-div.featured-work{
+.featured-work{
 	display: flex;
 	justify-content: space-between;
 	width: 100%
@@ -150,14 +150,6 @@ a.website_link {
 	}
 
 	h1.name {
-	text-transform: uppercase;
-	text-align: right;
 	font-size: 3.5vh;
-	font-family: Lato, sans-serif;
-	font-weight: 100;
-	margin: 0 auto;
-	margin-right: 0;
-	display: flex;
-	max-width: 100%;
 	}
 }
