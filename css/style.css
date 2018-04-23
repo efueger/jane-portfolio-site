@@ -18,7 +18,7 @@ body {
 	max-height: 100px;
 }
 
-div.top-item.logo{
+.top-item.logo{
 	width: 20%;
 }
 
@@ -60,7 +60,7 @@ p.title {
 	display: flex;
 }
 
-p.main_pic {
+.main_pic {
     display: block;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
@@ -107,7 +107,7 @@ figcaption {
 	text-align: center;
 }
 
-a.website_link {
+.website_link {
 	text-transform: lowercase;
 	color: #2d3c49;
 	text-decoration: none;
